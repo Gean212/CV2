@@ -1,7 +1,4 @@
 # *Curriculum vitae* de Geancarlo Meléndez
-
-
-
 ![](chemsconflecos.jpg)
 
 
