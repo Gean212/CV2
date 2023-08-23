@@ -1,5 +1,5 @@
 # *Curriculum vitae* de Geancarlo Meléndez
-![](chemsconflecos.jpg)
+![](Chemsconflecos.jpg)
 
 
 Profesional en SIG de la Municipalidad de Puntarenas [Sitio Web de la Municipalidad de Puntarenas](https://munipuntarenas.maps.arcgis.com/home/index.html)
